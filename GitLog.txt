@@ -1,0 +1,26 @@
+*   commit 63493ca78d32f9f253e8c4ac80d16382cef331f6 (HEAD -> master, origin/master)
+|\  Merge: d739c7a 020ab6a
+| | Author: Aljaz95 <117852501+Aljaz95@users.noreply.github.com>
+| | Date:   Thu Jan 16 11:21:57 2025 +0100
+| | 
+| |     Merge pull request #1 from Aljaz95/feature-01
+| |     
+| |     aaaa
+| | 
+| * commit 020ab6a90c5f4296409af8c2d8df2e025d3c40c9 (origin/feature-01, feature-01)
+|/  Author: Aljaz95 <aljaz.knuplez95@gmail.com>
+|   Date:   Thu Jan 16 11:21:09 2025 +0100
+|   
+|       aaaa
+| 
+* commit d739c7aa06da9818d99735e6d23217abfba024fb
+| Author: Aljaz95 <aljaz.knuplez95@gmail.com>
+| Date:   Thu Jan 16 10:55:24 2025 +0100
+| 
+|     example.exe
+| 
+* commit 196eb861d35663d82f8062b1f68f73e50a2f5110
+  Author: Aljaz95 <aljaz.knuplez95@gmail.com>
+  Date:   Thu Jan 16 10:46:58 2025 +0100
+  
+      intial commit
